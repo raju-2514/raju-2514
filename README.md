@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Md Raju Biswas</h1>
 <h3 align="center">Enthusiastic Software Engineer | Driven by Innovation and Excellence.</h3>
-<img align="middle" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-2514&label=Profile%20views&color=0e75b6&style=flat" alt="raju-2514" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raju-2514" alt="raju-2514" /></a> </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-2514&label=Profile%20views&color=0e75b6&style=flat" alt="raju-2514" /> </p>
 - 🔭 I’m currently working on Leads Corporation Limited **Java ADF Developer**
 
 - 🌱 I’m currently learning Python with Machine learning and deep learning **Django,Flash,web2py**
