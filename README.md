@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raju-2514" alt="raju-2514" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-2514&label=Profile%20views&color=0e75b6&style=flat" alt="raju-2514" /> </p>
-- 🔭 I’m currently working on Leads Corporation Limited **Java ADF Developer**
+- 🔭 I’m working on  **Java ADF and Spring Boot Developer**
 
 - 🌱 I’m currently learning Python with Machine learning and deep learning **Django,Flash,web2py**
 
