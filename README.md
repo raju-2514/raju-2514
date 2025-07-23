@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,Md Raju Biswas</h1>
+<h1 align="center">Md Raju Biswas</h1>
 <h3 align="center">Enthusiastic Software Engineer | Driven by Innovation and Excellence.</h3>
 
 
