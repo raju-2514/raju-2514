@@ -1,6 +1,3 @@
-
-<div style="text-align: center;">
-  <img src="your-image-url.jpg" alt="Md Raju Biswas" style="width: 150px; border-radius: 50%;">
   <h1>Md Raju Biswas</h1>
 </div>
 
