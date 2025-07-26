@@ -1,5 +1,9 @@
 
-<h1 align="center">Md Raju Biswas</h1>
+<div style="text-align: center;">
+  <img src="your-image-url.jpg" alt="Md Raju Biswas" style="width: 150px; border-radius: 50%;">
+  <h1>Md Raju Biswas</h1>
+</div>
+
 <h3 align="center">Enthusiastic Software Engineer | Driven by Innovation and Excellence.</h3>
 
 
